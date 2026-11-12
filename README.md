@@ -1,4 +1,4 @@
-# Microsite Web Summit 2026
+# 🚀 Microsite Web Summit 2026
 1. Identificação do Projeto
 Nome do projeto: Microsite Web Summit 2026
 Tipo de projeto: Website estático e responsivo
@@ -23,33 +23,8 @@ CSS Grid: Organização da grelha de apresentação dos oradores.
 Flexbox: Alinhamento e distribuição dos elementos da interface.
 HTML5 Forms: Criação de formulários com validação nativa do navegador.
 Media Queries: Adaptação do website a computadores, tablets e smartphones.
-4. Estrutura do Projeto
-
-A organização dos ficheiros e pastas do projeto é a seguinte:
-
-text
-microsite-websummit/
-│
-├── index.html
-├── programa.html
-├── oradores.html
-├── contacto.html
-├── README.md
-│
-├── css/
-│   └── style.css
-│
-├── images/
-│   ├── banner.webp
-│   ├── orador1.webp
-│   └── orador2.webp
-│
-└── media/
-    ├── promocional.mp4
-    └── poster.webp
-
-5. Páginas Desenvolvidas
-5.1. Página Inicial – index.html
+4. Páginas Desenvolvidas
+4.1. Página Inicial – index.html
 
 Página principal do microsite, destinada à apresentação geral do evento.
 
@@ -61,7 +36,7 @@ Imagem de destaque (banner).
 Breve apresentação do Web Summit 2026.
 Menu de navegação.
 Botão de chamada à ação (CTA) para explorar o programa.
-5.2. Página do Programa – programa.html
+4.2. Página do Programa – programa.html
 
 Página dedicada à apresentação da programação do evento.
 
@@ -72,7 +47,7 @@ Horários das apresentações.
 Temas e áreas tecnológicas.
 Identificação das respetivas salas.
 Organização das sessões através de cartões ou de uma tabela HTML acessível.
-5.3. Página dos Oradores – oradores.html
+4.3. Página dos Oradores – oradores.html
 
 Página destinada à apresentação dos convidados, especialistas e profissionais participantes no evento.
 
@@ -83,7 +58,7 @@ Fotografias dos participantes.
 Nome e profissão de cada orador.
 Breve biografia ou descrição profissional.
 Área de especialização e respetiva empresa ou organização.
-5.4. Página de Contacto – contacto.html
+4.4. Página de Contacto – contacto.html
 
 Página destinada à comunicação entre os visitantes e a organização do evento.
 
@@ -96,7 +71,7 @@ Campo para introdução do assunto.
 Área de texto para mensagens.
 Botão de envio.
 Validação dos campos através dos atributos HTML5.
-6. Design e Responsividade
+5. Design e Responsividade
 
 O microsite foi concebido para proporcionar uma experiência de navegação intuitiva e consistente.
 
@@ -107,7 +82,7 @@ Através da utilização de CSS Grid, Flexbox e Media Queries, o website adapta-
 Computadores (Desktop).
 Tablets.
 Smartphones.
-7. Objetivos do Projeto
+6. Objetivos do Projeto
 
 Com o desenvolvimento deste microsite pretende-se:
 
@@ -118,8 +93,5 @@ Criar formulários com validação HTML5.
 Aplicar técnicas de design responsivo.
 Melhorar a organização e estruturação de projetos web.
 Desenvolver uma interface intuitiva e visualmente apelativa.
-8. Como Executar o Projeto
 
-Para visualizar o microsite localmente:
-
-Descarregar ou clonar este re
+Projeto académico – Microsite Web Summit 2026
